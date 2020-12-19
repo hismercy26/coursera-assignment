@@ -1,0 +1,40 @@
+.row {
+  margin-bottom: 15px;
+}
+.row > div {
+  border: 2px solid red;
+  background-color: gray;
+}
+*{box-sizing: border-box}
+body{margin: 0;
+     padding: 0;
+    box-sizing: border-box;
+ background-color: mintcream;
+  font-family: sans-serif,serif,Times;}
+#mycolor {background-color: mintcream;
+border-style: none}
+#my2color {background-color: mintcream;
+border-style: none}
+#my3color {background-color: mintcream;
+border-style: none}
+.section{    
+    
+    margin: 1em;
+         padding : 1.5em;
+      border: inline;  
+    background-color: salmon;}
+    
+.navbar-nav a{text-align: center;
+    font-family: serif sans-serif;
+               font-size: ;
+               font-weight: bold;
+           
+}
+
+h1{text-a}
+ h2 {
+    margin: 0;
+     padding: .2em;
+    position: absolute
+        top:0%;
+        right: 0%;
